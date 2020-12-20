@@ -11,7 +11,8 @@ fork this repo and start your work on the flutter assigment
 
 # *Chat Screen*
 <br>
-<img src ="flutter_chatapp/Screenshots/chat_screen (1).png" width = 200> <img src ="flutter_chatapp/Screenshots/chat_screen (2).png" width = 200>
+<div><img src ="flutter_chatapp/Screenshots/chat_screen (1).png" width = 200><img src ="flutter_chatapp/Screenshots/chat_screen (2).png" width = 200></div>
 <br> 
-# *Chat screen tap on attachment icon to see more options*<br>
+<H1>Chat screen tap on attachment icon to see more options</H1>
+<br>
 <img src ="flutter_chatapp/Screenshots/tap_attachment_icon.png" width = 200>
