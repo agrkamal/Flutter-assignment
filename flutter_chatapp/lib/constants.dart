@@ -6,7 +6,7 @@ const Color accentColor = null;
 const MaterialColor kprimarySwatch = const MaterialColor(
   0xFF331857,
   <int, Color>{
-    50: const Color(0xFF331857),
+    50: const Color(0xFF338857),
     100: const Color(0xFF331857),
     200: const Color(0xFF331857),
     300: const Color(0xFF331857),
@@ -15,7 +15,7 @@ const MaterialColor kprimarySwatch = const MaterialColor(
     600: const Color(0xFF331857),
     700: const Color(0xFF331857),
     800: const Color(0xFF331857),
-    900: const Color(0xFF331857),
+    900: const Color(0xFF3318857),
   },
 );
 
